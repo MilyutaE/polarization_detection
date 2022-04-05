@@ -1,0 +1,49 @@
+[
+  {
+    "documents_polarization": [
+      {
+        "document_id": 0,
+        "probabilities": [
+          0
+        ],
+        "neutral": true,
+        "neutral_prob": 0,
+        "irrelevant": true,
+        "irrelevant_prob": 0
+      }
+    ],
+    "num_poles": 0,
+    "poles_names": [
+      "string"
+    ],
+    "polarization_ner": [
+      "string"
+    ],
+    "entities_relations_to_poles": [
+      [
+        0
+      ]
+    ],
+    "topic": {
+      "lvl1": {
+        "id": "string",
+        "topic_label": "string"
+      },
+      "lvl2": {
+        "id": "string",
+        "topic_label": "string"
+      },
+      "lvl3": {
+        "id": "string",
+        "topic_label": "string"
+      },
+      "lvl4": {
+        "id": "string",
+        "topic_label": "string"
+      },
+      "probability": 1
+    },
+    "tension": 0,
+    "significance": 0
+  }
+]
